@@ -1,45 +1,42 @@
-# Welcome to Rasid AI 🚀
+# Rassid AI – Revolutionizing Personal Finance
 
-## 🙋‍♀️ Introduction
+## 🚀 Our Mission
+At **Rassid AI**, we believe that managing your finances shouldn’t require expertise in marketing or accounting. Imagine having your own personal accountant and financial consultant—right in your pocket. That's exactly what we aim to deliver. Powered by cutting-edge AI technology, Rassid AI is transforming the way people interact with their finances, making financial planning effortless, intuitive, and stress-free.
 
-Rasid AI is revolutionizing personal finance management with the power of artificial intelligence. We're on a mission to make financial planning and tracking as easy as chatting with a knowledgeable friend. Our app simulates the expertise of an accountant and financial consultant, putting professional-grade financial tools in the palm of your hand.
+Our goal is simple: to change how the industry approaches finance by integrating future technologies that enable smarter, faster, and more accessible financial solutions for everyone.
 
-## 🌟 Key Features
+## 👥 Founders
+- **Abdulaziz Alzendani** (Co-Founder)
+- **Abdulrahman Emad** (Co-Founder)
 
-- 💰 Intelligent Transaction Logging
-- 🧠 AI-Powered Financial Insights
-- 📊 Automated Budget Planning
-- 🔮 Predictive Financial Forecasting
-- 🏷️ Smart Expense Categorization
-- 📈 Investment Performance Tracking
-- 🔔 Intelligent Bill Reminders
-- 🎯 Goal-Oriented Financial Planning
-- 📑 Comprehensive Financial Reporting
-- 🌍 Multi-Currency Support
+Together, we’re driven by a shared vision to reshape the personal finance landscape through innovation and simplicity.
 
-## 🌈 Contribution Guidelines
+## 🛠️ Technology Stack
+Our powerful platform is built using:
+- **Frontend**: Flutter – Delivering a seamless and responsive cross-platform experience.
+- **Backend**: Python – Offering robust, AI-driven financial insights and secure server-side operations.
 
-While Rasid AI is a proprietary project, we value feedback from our users. Here's how you can contribute to making Rasid even better:
+## 📱 How to Get Rassid AI
+Rassid AI is your all-in-one financial companion, available for both iOS and Android. Download it directly from our [official website](https://rassid.framer.website/), and soon, you’ll find us on the **App Store** and **Google Play** as well. 
 
-- 📝 Share your feature suggestions through our in-app feedback form
-- 🐞 Report any bugs you encounter via our support channel
-- 🌟 Rate us on the App Store or Google Play Store
-- 📢 Spread the word about Rasid to friends and family!
+With Rassid AI, managing your finances is as simple as having a conversation.
 
-## 👩‍💻 Useful Resources
+## 🔒 Contribution Policy & Licensing
+Rassid AI is a **closed-source**, **commercial** project. We take pride in the integrity and security of our platform, so external contributions are not permitted. However, if you’re interested in learning from our expertise, we offer a **training program**—reach out through our website to get started!
 
-- 📚 [User Manual](https://www.rasidai.com/manual) - Comprehensive guide to using Rasid AI
-- 🆘 [Support Center](https://support.rasidai.com) - FAQs and troubleshooting tips
-- 📱 [Download App](https://www.rasidai.com/download) - Get Rasid AI for iOS and Android
+Please note that any copying, distributing, or modification of our app or codebase is strictly prohibited. For the best experience, download the app through our authorized channels.
 
-## 🍿 Fun Facts
+## 🎯 Future Vision
+We’re just getting started. Our commitment is to stay true to our vision: 
+- Delivering the best AI-powered financial solutions.
+- Expanding our platform’s capabilities to provide more personalized financial insights.
+- Continually innovating to ensure we remain leaders in the personal finance space.
 
-- Our team starts each day with a "financial health check" using Rasid AI - we practice what we preach!
-- The name "Rasid" means "guide" in Arabic, reflecting our app's role as your personal financial guide.
-- Our AI model is trained on millions of financial transactions, making it smarter with every user interaction.
+Join us as we move toward a future where **everyone** can take control of their finances—no expertise required!
 
-## 🧙 The Power of AI in Finance
+## ✉️ Contact Us
+Interested in our journey or looking to join our training program? Visit our [website](https://rassid.framer.website/) for more information, or contact us at:
+- Abdulaziz Alzendani: [abdulaziz.alzendani.1@gmail.com](mailto:abdulaziz.alzendani.1@gmail.com)
+- Abdulrahman Emad: [abd.emad427@gmail.com](mailto:abd.emad427@gmail.com)
 
-At Rasid, we believe in the transformative power of AI in personal finance. Our advanced algorithms work tirelessly to provide you with insights and recommendations that were once only available through expensive financial advisors. With Rasid AI, everyone can have a personal financial expert in their pocket!
-
-Remember, with Rasid AI, you're not just tracking expenses - you're mastering your financial future! 💪💰
+Let’s transform the future of personal finance together.
